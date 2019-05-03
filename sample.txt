@@ -1,0 +1,11 @@
+Hi RafaelBarreira,
+Welcome back to this week's edition of the Repl.it newsletter! In this week's edition:
+Tip of the Week: Repl Talk Search
+Finalize your Game Jam Entries
+Get the Repl.it Chrome Extension
+Check out the Repl Highlights
+Join the Language Learning Club on Discord
+Grab some Repl.it Swag
+Oh, and if you're curious, the language used in this newsletter is C++...
+>printf(weeklyTip);
+You can search for posts on Repl Talk - and you can filter by body and title contents. e.g. if you wanted to find all the posts that had "python" in the title, search "@title:python". To find all posts that had "awesome" in the body, search "@body:awesome".
